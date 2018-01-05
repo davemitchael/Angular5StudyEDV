@@ -11,6 +11,7 @@ add(message: string) {
 clear() {
   this.messages = [];
 }
+
   constructor() { }
 
 }
